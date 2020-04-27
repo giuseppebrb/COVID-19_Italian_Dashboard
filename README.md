@@ -1,16 +1,15 @@
-# covid19italiandashboard
+# COVID-19 Italian Dashboard
+###### A Flutter application during coronavirus time
+---
+![COVID-19](https://i.imgur.com/aP7sPCj.jpg)
+<img src="https://i.imgur.com/GL3ZaxJ.png" alt="Home page" height="500"/>
+<img src="https://i.imgur.com/UAO2jrY.png" alt="Regions page" height="500"/>
 
-A dashboard to monitor the spread of COVID-19 in Italy
+## About this app
 
-## Getting Started
+COVID-19 Italian Dashboard is a Flutter application that monitors the spread and the trend of COVID-19 in Italy.
 
-This project is a starting point for a Flutter application.
+Data are provided openly by Protezione Civile Italiana.
+Besides an overview of the national trend, values and charts of regional spred are offered as well.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is internationalized both in English and Italian.
