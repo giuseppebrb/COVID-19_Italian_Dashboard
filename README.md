@@ -1,7 +1,7 @@
 # COVID-19 Italian Dashboard
 ###### A Flutter application during coronavirus time
 ---
-<img src="https://i.imgur.com/aP7sPCj.jpg" alt="COVID-19" height="400"/>
+<img src="https://i.imgur.com/aP7sPCj.jpg" alt="COVID-19"/>
 <img src="https://i.imgur.com/GL3ZaxJ.png" alt="Home page" height="500"/>
 <img src="https://i.imgur.com/UAO2jrY.png" alt="Regions page" height="500"/>
 
